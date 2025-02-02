@@ -29,10 +29,6 @@ body{
 }
 .navbar{
   background-color: #F3F3F3;
-  position: fixed !important;
-  top: 0 !important;
-  width: 100% !important;
-  z-index: 1000 !important;
 }
 .navbar-items{
   display: flex;
