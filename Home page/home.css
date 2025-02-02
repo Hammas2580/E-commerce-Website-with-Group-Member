@@ -29,7 +29,7 @@ body{
 }
 .navbar{
     background-color: #F3F3F3;
-    font-family: Space Grotesk;
+    font-family: Space Grotesk;    
 }
 .navbar-items{
     display: flex;
